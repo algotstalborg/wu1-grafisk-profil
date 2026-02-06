@@ -36,14 +36,14 @@
     --space-s-l: clamp(1.125rem, 0.5625rem + 2.5vw, 2.5rem);
 
     /* Variabler för färger */
-    --primary-color: #3498db;
-    --secondary-color: #2ecc71;
-    --color-dark: #333;
-    --color-light: #f9f9f9;
+    --primary-color: #0A192F;
+    --secondary-color: #F43F5E;
+    --color-dark: #2D2D2D;
+    --color-light: #FFFFFF;
 
     /* Variabler för typografi */
-    --type-heading: sans-serif;
-    --type-body: serif;
+    --type-heading: "Montserrat", sans-serif;
+    --type-body: "Montserrat", sans-serif;
     --line-height-body: 1.6;
     --line-height-heading: 1.1;
 
